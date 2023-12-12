@@ -35,5 +35,26 @@ One After 909 — A song recorded for the ¨C11C album was actually worked on wa
     <string name="button_second">Reply</string>
     <string name="editText_second">Enter Your Reply Here</string>
     <string name="text_header_reply">Reply Received</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Movie</string>
+    <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">Close drawer</string>
+    <string name="text_tab1">Bocchi the Rock! adalah seri manga empat panel Jepang yang ditulis dan diilustrasikan oleh Aki Hamaji, diserialkan di majalah manga seinen Houbunsha Manga Time Kirara Max
+        sejak Desember 2017. Ini telah dikumpulkan dalam tiga volume tankōbon. Adaptasi serial televisi anime oleh CloverWorks ditayangkan perdana pada Oktober 2022.
+        Menceritakan Hitori Gotou seorang gadis SMA yang mulai belajar bermain gitar karena dia bermimpi menjadi anggota band, tapi dia sangat pemalu sehingga dia tidak punya teman.
+        Namun, mimpinya mungkin menjadi kenyataan setelah dia bertemu Nijika Ijichi, seorang gadis yang bermain drum dan sedang mencari gitaris baru untuk bandnya.</string>
+
+    <string name="text_tab2">
+        Judul :	Bocchi the Rock!
+        Episodes :	1 s/d 12
+        Studio :	CloverWorks
+        Source :	4-Koma Manga
+        Durasi :	23 Menit
+        Genre :	Comedy, Music
+        Score :	9</string>
+
+    <string name="text_tab3">Anime Genre Comedy :Anime bergenre Comedy adalah anime yang mempunyai unsur, penuh dengan canda dan tawa dari anime tersebut. ini bisa meliputi manusia menjadi efek lebay penuh dengan imajinasi konyol</string>
+
+
 
 </resources>

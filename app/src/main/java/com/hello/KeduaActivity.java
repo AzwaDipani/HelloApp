@@ -11,7 +11,7 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class KeduaActivity extends AppCompatActivity {
-    public static final String EXTRA_REPLY = "com.hello.extra.REPLY";
+    public static final String EXTRA_REPLY = "com.example.android.pertamaActivity.extra.REPLY";
 
     private EditText mReply;
 
@@ -32,7 +32,7 @@ public class KeduaActivity extends AppCompatActivity {
         buttonMoveToOtherActivity.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(KeduaActivity.this, SetAlarm.class);
+                Intent intent = new Intent(KeduaActivity.this, pertamaActivity.class);
                 startActivity(intent);
             }
         });
@@ -40,10 +40,13 @@ public class KeduaActivity extends AppCompatActivity {
 
     @Override
     public void onBackPressed() {
-        Intent replyIntent = new Intent();
-        String reply = mReply.getText().toString();
-        replyIntent.putExtra(EXTRA_REPLY, reply);
-        setResult(RESULT_OK, replyIntent);
+
+        String reply = mReply.getText().toString().trim();
+        if (!reply.isEmpty()) {
+            Intent replyIntent = new Intent();
+            replyIntent.putExtra(EXTRA_REPLY, reply);
+            setResult(RESULT_OK, replyIntent);
+        }
         super.onBackPressed();
     }
 }
