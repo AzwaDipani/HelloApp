@@ -39,22 +39,23 @@ One After 909 — A song recorded for the ¨C11C album was actually worked on wa
     <string name="hello_blank_fragment">Movie</string>
     <string name="drawer_open">Open drawer</string>
     <string name="drawer_close">Close drawer</string>
-    <string name="text_tab1">Bocchi the Rock! adalah seri manga empat panel Jepang yang ditulis dan diilustrasikan oleh Aki Hamaji, diserialkan di majalah manga seinen Houbunsha Manga Time Kirara Max
-        sejak Desember 2017. Ini telah dikumpulkan dalam tiga volume tankōbon. Adaptasi serial televisi anime oleh CloverWorks ditayangkan perdana pada Oktober 2022.
-        Menceritakan Hitori Gotou seorang gadis SMA yang mulai belajar bermain gitar karena dia bermimpi menjadi anggota band, tapi dia sangat pemalu sehingga dia tidak punya teman.
+    <string name="bocchi">Menceritakan Hitori Gotou seorang gadis SMA yang mulai belajar bermain gitar karena dia bermimpi menjadi anggota band, tapi dia sangat pemalu sehingga dia tidak punya teman.
         Namun, mimpinya mungkin menjadi kenyataan setelah dia bertemu Nijika Ijichi, seorang gadis yang bermain drum dan sedang mencari gitaris baru untuk bandnya.</string>
 
-    <string name="text_tab2">
-        Judul :	Bocchi the Rock!
-        Episodes :	1 s/d 12
-        Studio :	CloverWorks
-        Source :	4-Koma Manga
-        Durasi :	23 Menit
-        Genre :	Comedy, Music
-        Score :	9</string>
+    <string name="Jigokuraku">Ceritanya berlatar di sekitar tahun kesebelas Zaman Tokugawa. Seorang ninja bernama Gabimaru yang dikenal sebagai ninja pembunuh paling ditakuti, berhasil ditangkap. Saat sedang dipenjara menunggu keputusannya, Gabimaru menerima tawaran dari sang algojo apabila dirinya masih ingin melihat istrinya lagi. Syaratnya adalah jika dia bisa mendapatkan ramuan keabadian dari pulau misterius, mereka akan membebaskannya.</string>
+    <string name="nier">menceritakan perjuangan android 2B, 9S dan A2 dalam pertempuran merebut kembali distopia yang dikuasai oleh mesin yang kuat. Umat manusia dipaksa meninggalkan Bumi oleh makhluk mekanis dari dunia lain. Dalam upaya terakhir untuk mengambil kembali planet, umat manusia mengirim tentara android untuk menghancurkan penjajah. Perang antara mesin dan android berkecamuk… Perang yang akan mengungkap kebenaran dunia yang telah terlupakan.</string>
+    <string name="delapan_enam">Menceritakan Republik San Magnolia.Untuk waktu yang lama, negara ini telah dikepung oleh tetangganya, Kekaisaran Giadian, yang menciptakan serangkaian drone tak berawak yang disebut Legiun. Setelah bertahun-tahun melakukan penelitian yang melelahkan, Republik akhirnya mengembangkan drone otonom mereka sendiri, mengubah perjuangan sepihak menjadi perang tanpa korban — atau setidaknya, itulah yang diklaim oleh pemerintah.
+        Kenyataannya, tidak ada yang namanya perang tanpa pertumpahan darah. Di luar tembok berbenteng yang melindungi delapan puluh lima wilayah Republik terdapat Sektor Delapan Puluh Enam yang “tidak ada”. Para pemuda dan pemudi dari wilayah yang ditinggalkan ini dicap sebagai Eighty-Six dan mengemudikan senjata “tak berawak” ke dalam pertempuran …Shinn mengarahkan tindakan detasemen Eighty-Sixers muda saat berada di medan perang.
+        Lena adalah “handler” yang memerintahkan detasemen dari belakang dengan bantuan komunikasi khusus.Kisah perpisahan dari perjuangan yang berat dan menyedihkan dari keduanya dimulai!</string>
 
-    <string name="text_tab3">Anime Genre Comedy :Anime bergenre Comedy adalah anime yang mempunyai unsur, penuh dengan canda dan tawa dari anime tersebut. ini bisa meliputi manusia menjadi efek lebay penuh dengan imajinasi konyol</string>
+    <string name="dagashi_kashi">Shikada Dagashi, toko pedesaan yang menjual permen dan makanan ringan murah (""dagashi") telah dijalankan oleh keluarga Shikada selama sembilan tahun generasi, tapi Kokonotsu tidak ingin mengambil alih toko dari ayahnya, Yō, malah bercita-cita menjadi seniman manga. Hotaru Shidare mengunjungi toko suatu hari dengan harapan dapat merekrut Yō ke perusahaan keluarganya, produsen manisan Shidare Corporation,
+        namun Yō menolak kecuali Hotaru terlebih dahulu dapat meyakinkan Kokonotsu untuk mengambil alih Shikada Dagashi.</string>
 
+    <string name="danshi_kokosei">Pada serial ini menceritakan tentang sekelompok anak laki-laki gila dari SMA Sanada yang sedang mencari jati diri.</string>
 
+    <string name="koikimo">Sekali jatuh cinta, sudah tak dapat dihentikan. Pertemuan aneh yang dialami oleh Amakusa Ryo, pebisnis elit yang ngeSIMP gila kepada teman adiknya, Arima Ichika. Mulai dari sana, dia jatuh cinta padanya. Di sisi lain, pendekatan yang dilakukan terlalu blak-blakan, dan Ichika hanya mengatakan “Jijik.”</string>
 
+    <string name="horimiya">Memiliki kepribadian yang bertolak belakang namun memiliki kesamaan yang aneh, keduanya dengan cepat menjadi teman dan sering menghabiskan waktu bersama di rumah Hori. Saat keduanya keluar dari cangkangnya, mereka saling berbagi sisi diri mereka yang tersembunyi dari dunia luar.</string>
+
+    <string name="wotakoi">Tokoh utamanya adalah Narumi, seorang pekerja kantoran yang menyembunyikan gaya hidup fujoshi nya, dan Hirotaka, seorang karyawan perusahaan yang tampan dan cakap yang merupakan otaku. Keduanya tampak sempurna untuk satu sama lain, tetapi cinta sulit untuk seorang otaku.</string>
 </resources>

@@ -10,13 +10,13 @@
             android:id="@+id/nav_item_sevenKingdoms"
             android:icon="@drawable/ic_lightbulb"
             android:title="Random Title-2"/>
-    </group>
-
-    <group>
         <item
             android:id="@+id/feedback"
             android:icon="@drawable/ic_lightbulb"
             android:title="Random Title-3"/>
+    </group>
+
+    <group>
         <item
             android:id="@+id/about"
             android:icon="@drawable/ic_info"
