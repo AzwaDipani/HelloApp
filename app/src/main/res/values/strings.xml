@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">HelloappTI22A1</string>
+    <string name="app_name">HelloApp</string>
     <string name="apakabar">Bagaimana Kabar Anda Hari Ini</string>
     <string name="button_label_toast">Toast</string>
     <string name="button_label_count">Count</string>

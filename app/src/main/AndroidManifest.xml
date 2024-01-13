@@ -20,9 +20,6 @@
             android:name=".fragmentmain"
             android:exported="false" />
         <activity
-            android:name=".fragment"
-            android:exported="false" />
-        <activity
             android:name=".MapsActivity"
             android:exported="false" />
         <activity
@@ -50,6 +47,7 @@
         <activity android:name=".scrollActivity" />
         <activity android:name=".pertamaActivity" />
         <activity android:name=".KeduaActivity" />
+        <activity android:name=".videoplayer" />
     </application>
 
 </manifest>

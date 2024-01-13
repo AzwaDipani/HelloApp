@@ -47,6 +47,15 @@
                         android:layout_height="wrap_content"
                         android:maxLines="7"
                         android:text="@string/koikimo"/>
+
+                    <Button
+                        android:id="@+id/koi"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginTop="10dp"
+                        android:text="Watch Trailer Now"
+                        android:onClick="koitrailer"/>
                 </LinearLayout>
             </LinearLayout>
 
@@ -88,6 +97,15 @@
                             android:layout_height="wrap_content"
                             android:maxLines="7"
                             android:text="@string/horimiya"/>
+
+                        <Button
+                            android:id="@+id/hori"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginTop="10dp"
+                            android:text="Watch Trailer Now"
+                            android:onClick="horitrailer"/>
                     </LinearLayout>
                 </LinearLayout>
             </LinearLayout>
@@ -130,6 +148,15 @@
                             android:layout_height="wrap_content"
                             android:maxLines="7"
                             android:text="@string/wotakoi"/>
+
+                        <Button
+                            android:id="@+id/wotakoi"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginTop="10dp"
+                            android:text="Watch Trailer Now"
+                            android:onClick="wotakoitrailer"/>
                     </LinearLayout>
                 </LinearLayout>
             </LinearLayout>

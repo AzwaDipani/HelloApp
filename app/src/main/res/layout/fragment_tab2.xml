@@ -47,6 +47,15 @@
                         android:layout_height="wrap_content"
                         android:maxLines="7"
                         android:text="@string/dagashi_kashi"/>
+
+                    <Button
+                        android:id="@+id/dagashi"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginTop="10dp"
+                        android:text="Watch Trailer Now"
+                        android:onClick="dagashitrailer"/>
                 </LinearLayout>
             </LinearLayout>
 
@@ -88,6 +97,15 @@
                             android:layout_height="wrap_content"
                             android:maxLines="7"
                             android:text="@string/danshi_kokosei"/>
+
+                        <Button
+                            android:id="@+id/danshi"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginTop="10dp"
+                            android:text="Watch Trailer Now"
+                            android:onClick="danshitrailer"/>
                     </LinearLayout>
                 </LinearLayout>
             </LinearLayout>
@@ -130,6 +148,15 @@
                             android:layout_height="wrap_content"
                             android:maxLines="7"
                             android:text="@string/bocchi"/>
+
+                        <Button
+                            android:id="@+id/bocchi"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginTop="10dp"
+                            android:text="Watch Trailer Now"
+                            android:onClick="bocchitrailer"/>
                     </LinearLayout>
                 </LinearLayout>
             </LinearLayout>
